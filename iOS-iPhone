@@ -1,0 +1,13 @@
+## iOS
+### Trinn 1: Last ned Microsoft Authenticator
+1. Åpne App Store.
+2. Søk etter "Microsoft Authenticator".
+3. Trykk på "Hent" og deretter "Installer".
+4. Bekreft installasjonen med ditt Apple ID-passord eller Touch ID/Face ID.
+![iOS Step 1](iOS/step1.png)
+
+
+### Trinn 2: Åpne Microsoft Authenticator
+1. Finn og åpne Microsoft Authenticator-appen på din enhet.
+2. Trykk på "Kom i gang".
+![iOS Step 2](iOS/step2.png)
